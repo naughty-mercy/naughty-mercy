@@ -1,8 +1,4 @@
-# 👋 Hi, I’m @naughty-mercy
 
-- 👀 I’m interested in exploring new technologies, coding, and open-source projects.
-- 🌱 I’m currently learning advanced JavaScript, Python, and machine learning.
-- 💞️ I’m looking to collaborate on innovative projects that make a difference.
 - 📫 How to reach me: email@example.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
